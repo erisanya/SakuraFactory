@@ -1,5 +1,6 @@
-Name: Trap v2
+Name: Trap v22
 Gain: +4.0 dB
 Threshold: 60
 Clip Mode: Soft
 EQ Enabled: true
+Analog Distortion: false

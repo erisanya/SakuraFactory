@@ -1,5 +1,6 @@
-Name: Soft Clip v2
+Name: Soft Clip 2
 Gain: +4.0 dB
 Threshold: 80
 Clip Mode: Soft
 EQ Enabled: false
+Analog Distortion: false

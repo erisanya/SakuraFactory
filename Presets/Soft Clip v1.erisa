@@ -1,5 +1,6 @@
-Name: Soft Clip v1
+Name: Soft Clip 1
 Gain: +2.5 dB
 Threshold: 75
 Clip Mode: Soft
 EQ Enabled: false
+Analog Distortion: false
